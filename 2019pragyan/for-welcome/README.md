@@ -1,7 +1,11 @@
 # Challenge
+
 > Welcome
+
 > 50 point
+
 > Do you think this is a normal image? No! Dig deeper to find out more.....
+
 > file: welcome.
 
 # Solution

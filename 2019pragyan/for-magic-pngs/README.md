@@ -1,8 +1,13 @@
 # Challenge
+
 > Magic PNGs 
+
 > 100 point
->Magic PNGs:
->Can you help me open this zip file? I seem to have forgotten its password. I think the image file has something to do with it.
+
+> Magic PNGs:
+
+> Can you help me open this zip file? I seem to have forgotten its password. I think the image file has something to do with it.
+
 > file: tryme.zip you_cant_see_me.png
 
 
